@@ -1,8 +1,8 @@
----
+-adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh--
 manufacturer: 
     - lenovo
 
----
+---adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 
 
 ### Lenovo P2
